@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-property-calculator/static/js/main.f497b865.chunk.js",
+    "main.js.map": "/react-property-calculator/static/js/main.f497b865.chunk.js.map",
+    "runtime~main.js": "/react-property-calculator/static/js/runtime~main.c87334e8.js",
+    "runtime~main.js.map": "/react-property-calculator/static/js/runtime~main.c87334e8.js.map",
+    "static/js/2.907b6087.chunk.js": "/react-property-calculator/static/js/2.907b6087.chunk.js",
+    "static/js/2.907b6087.chunk.js.map": "/react-property-calculator/static/js/2.907b6087.chunk.js.map",
+    "index.html": "/react-property-calculator/index.html",
+    "precache-manifest.f9fc468c98a27acaced8ffde4a795f4d.js": "/react-property-calculator/precache-manifest.f9fc468c98a27acaced8ffde4a795f4d.js",
+    "service-worker.js": "/react-property-calculator/service-worker.js"
+  }
+}
